@@ -1,10 +1,3 @@
-"""
-3D convolutions using GPU accelereration for Theano (using conv2d)
-https://github.com/jaberg/TheanoConv3d2d
-
-"""
-
-
 import theano
 from theano.gradient import DisconnectedType
 from theano.gof import Op, Apply, TopoOptimizer
