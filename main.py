@@ -1,14 +1,3 @@
-#!/usr/bin/python
-"""
-3D-CAE with max-pooling
-
-Stacked 3D-CAE for Alzheimer
-
-11-11-15 Ehsan Hosseini-Asl
-
-"""
-__author__ = 'ehsanh'
-
 import numpy as np
 import argparse
 import os
