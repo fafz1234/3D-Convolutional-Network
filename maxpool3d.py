@@ -1,8 +1,3 @@
-""" 
-Max pooling spatio-temporal inputs for Theano
-"""
-
-
 from theano import tensor
 from theano.tensor.signal.downsample import DownsampleFactorMax
 
