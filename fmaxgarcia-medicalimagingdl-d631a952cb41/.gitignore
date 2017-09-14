@@ -1,0 +1,5 @@
+*.pyc
+./Clean Model/*.pyc
+*.pkl
+./Clean Model/*.pkl
+./Clean Model/fold*/*.pkl
